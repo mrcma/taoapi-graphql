@@ -1,0 +1,15 @@
+type Query {
+  book: [Chapter!]!
+  chapter(number: String!): Chapter!
+}
+
+type Chapter {
+  number: String!
+  content: Translations!
+}
+
+type Translations {
+  EN: String!
+  ES: String
+  ZH: String
+}
