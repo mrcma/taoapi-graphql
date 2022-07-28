@@ -1,14 +1,13 @@
 # TAOAPI
 
-```
-I am currently adding the chapters to the json file.
-It has not yet been completed.
-Sorry for the inconvenience
-```
-
 Taoapi GraphQL is a GraphQL API for the Tao Te Ching which is a classical chinese text on philosophy written around 400 BC by Laozi, very useful for people of all times. In a general tend it deals with the ideas of action without intention, naturalness, simplicity, spontaneity, compassion, frugality and humility.
 
 I hope it will be useful for developers as well and that they will feel free to improve it.
+
+```
+I am currently adding the chapters to the json file.
+It has not yet been completed.
+```
 
 ### Running locally
 
