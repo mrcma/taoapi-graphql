@@ -5,8 +5,7 @@ Taoapi GraphQL is a GraphQL API for the Tao Te Ching which is a classical chines
 I hope it will be useful for developers as well and that they will feel free to improve it.
 
 ```
-I am currently adding the chapters to the json file.
-It has not yet been completed.
+I am currently adding the translations to the json file.
 ```
 
 ### Running locally
