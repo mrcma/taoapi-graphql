@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev src/main.ts",
+    "dev": "ts-node-dev --env-file=.env.local src/main.ts",
     "start": "ts-node src/main.ts",
     "generate": "graphql-codegen"
   },
@@ -27,5 +27,8 @@
     "@graphql-yoga/node": "^2.13.3",
     "express": "^4.18.1",
     "graphql": "^16.5.0"
+  },
+  "engines": {
+    "node": ">=20.6.0"
   }
 }
